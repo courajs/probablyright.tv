@@ -1,0 +1,22 @@
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+#main {
+  max-width: 800px;
+  margin: auto;
+}
+
+#logo {
+  font-size: 48px;
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+}
+
+#tagline {
+  text-align: center;
+}
+
+h1, h2 {
+  font-weight: normal;
+}

@@ -2,6 +2,10 @@ body {
   font-family: Open Sans, sans-serif;
 }
 
+h1, h2 {
+  font-weight: normal;
+}
+
 #main {
   max-width: 800px;
   margin: auto;
@@ -17,6 +21,11 @@ body {
   text-align: center;
 }
 
-h1, h2 {
-  font-weight: normal;
+#episode-list li {
+  list-style: none;
+}
+
+.youtube-embed {
+  display: block;
+  margin: auto;
 }

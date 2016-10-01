@@ -1,0 +1,10 @@
+---
+layout: default
+permalink: /episodes/
+---
+<h2>Previous Episodes:</h2>
+<ul id="episode-list">
+  {% for episode in site.episodes %}
+  <li><a href={{episode.number}}>Ep. {{episode.number}} - {{episode.title}}</a></li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,25 @@
+# Site settings
+title: Probably Right
+email: >
+  <script type='text/javascript'>
+    /* stupid email harvesters can't even run js LOL */
+    var a='aaron', b='@sike', c='s.io';
+    document.write('<a href=\'mailto:'+a+b+c+'\'>'+a+b+c+'</a>');
+  </script>
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.probablyright.tv" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+collections:
+  episodes:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "episode"

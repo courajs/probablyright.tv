@@ -3,3 +3,6 @@ layout: default
 ---
 <h2>Ep. {{page.number}} - {{page.title}}</h2>
 {{content}}
+{% if page.stream-id %}
+<iframe class='youtube-embed' width="560" height="315" src="https://www.youtube.com/embed/{{page.stream-id}}" frameborder="0" allowfullscreen></iframe>
+{% endif %}

@@ -16,3 +16,6 @@ that up real quick over the weekend, nbd.
 I know basically nothing about Scala. It's functional? Runs on the JVM.
 SBT is a build tool? Actually, it probably stands for Scala Build Tool
 lol.
+
+Also, I can maybe explain what a monad is? Let me know if you want me to
+try.

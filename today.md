@@ -4,21 +4,15 @@ layout: default
 
 ## Today's Stream
 
-I'm pretty interested in CardStack and where it could be going. I'm not
-100% sure exactly what it's _trying_ to be, but I see it as a set of
-tools for building an awesome modern CMS in the Ember ecosystem.
+I'm a "full-stack" developer, which means I've done all sorts of web
+stuff in the browser and on the server. But in my current role at work,
+I'm focused completely on front-end stuff. Our platform (back end) team
+has been a little overworked lately, but there are API changes I want!
+Augghhh what a world! If only there was something I could do about it...
 
-I thought this site about my streaming and videos would be a good
-playground for it, since it's content-focused. It's currently a static
-site built with jekyll on github pages, but I found that pretty
-limiting, and annoying to update.
+All our server stuff is written in Scala, so I figured I'd just pick
+that up real quick over the weekend, nbd.
 
-Some CardStack resources:
-- [The EmberConf reveal](https://www.youtube.com/watch?v=9DsBHKj90EY)
-- [CardStack Architecture notes](http://eaf4.com/cardstack-architecture-notes/)
-- [cardstack.io](http://cardstack.io)
-- [The working CardStack app demoed at EmberConf](https://github.com/ef4/emberconf-2017-demo)
-- [My in-progress CardStack app](https://github.com/courajs/probably-stack)
-
-Today I'm just generally working on it, and maybe building a simple
-single-password authenticator.
+I know basically nothing about Scala. It's functional? Runs on the JVM.
+SBT is a build tool? Actually, it probably stands for Scala Build Tool
+lol.
